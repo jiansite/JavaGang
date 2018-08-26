@@ -15,6 +15,10 @@ import cn.javaGang.util.Configuration;
 import cn.javaGang.util.Constant;
 import cn.javaGang.util.HttpUtils;
 
+/**
+ * 
+ * IP service
+ */
 public class IPService {
 
     /**
